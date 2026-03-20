@@ -15,7 +15,7 @@ Bu proje, bir raporlama sisteminin **SOLID** (Single Responsibility, Open/Closed
 ## Analiz Raporu
 Kodun ilk halindeki eksiklikler ve yapılan iyileştirmelerin detaylı anlatımı için raporu inceleyebilirsiniz:
 
-📄 **[SOLID Inceleme Raporu.pdf](./reports/SOLID_Inceleme_Raporu.pdf)**
+📄 **[Solid Inceleme Raporu.pdf](./reports/Solid_Inceleme_Raporu.pdf)**
 
 ---
 *Bu çalışma, sürdürülebilir yazılım mimarileri geliştirme yetkinliğimi sergilemek amacıyla hazırlanmıştır.*
