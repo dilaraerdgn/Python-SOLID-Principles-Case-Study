@@ -10,7 +10,8 @@ Bu proje, bir raporlama sisteminin **SOLID** (Single Responsibility, Open/Closed
 - **Interface Segregation:** `IDatabaseConnector`, `IDataSaver`, `INotifier` gibi küçük ve özelleşmiş arayüzler kullanılarak gereksiz bağımlılıklar önlenmiştir.
 - **Dependency Inversion:** `ReportManager` sınıfı doğrudan somut sınıflara değil, soyut arayüzlere (Abstractions) bağımlıdır.
 - **Single Responsibility:** Her sınıfın (MySQLConnector, EmailSender vb.) yalnızca tek bir görev tanımı vardır.
-  Kalanını dilerseniz **Solid_Inceleme_Raporu**'ndan okumaya devam edebilirsiniz.
+
+Kalanını dilerseniz **Solid_Inceleme_Raporu**'ndan okumaya devam edebilirsiniz.
 
 ## Analiz Raporu
 Kodun ilk halindeki eksiklikler ve yapılan iyileştirmelerin detaylı anlatımı için raporu inceleyebilirsiniz:
